@@ -1,0 +1,6 @@
+00102124 D __bss_start
+00102124 D _edata
+00102124 D _end
+00101116 T label1
+00102120 d locate1
+00100100 T _start
