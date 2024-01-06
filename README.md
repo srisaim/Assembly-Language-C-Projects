@@ -1,4 +1,4 @@
-# Assembly-Language-C-Projects
+# CS341 Assembly Language C Projects
 Computer Architecture and Organization
 
 CS341 Computer Architecture and Organization is a comprehensive course designed for C programmers, focusing on the underlying concepts of computer hardware and hardware-level programming. This course offers an in-depth exploration of digital logic circuits, the organization of microprocessor systems, including CPU, memory, and I/O interfaces, as well as serial and parallel port interfacing. A significant component of the course is dedicated to hardware programming using C and Assembly Language, covering topics such as interrupt programming and device drivers. Additionally, the course introduces the necessary assembly language concepts and includes a hands-on lab session each week.
