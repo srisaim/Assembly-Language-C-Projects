@@ -27,21 +27,21 @@ Assembly Language:
 # Overall Learning Perspective
 
 Understand Computer Hardware:
-  - Gain a solid understanding of digital logic circuits and the architecture of microprocessor systems.
+  - Gaining a solid understanding of digital logic circuits and the architecture of microprocessor systems.
 
 Hardware-Level Programming:
-  - Develop skills in programming at the hardware level using C and assembly language.
+  - Developing skills in programming at the hardware level using C and assembly language.
 
 Interfacing and Device Drivers: 
-  - Learn about serial and parallel port interfacing and how to write device drivers.
+  - Learning about serial and parallel port interfacing and how to write device drivers.
 
 Interrupt Programming: 
-  - Understand and implement interrupt-driven programming for efficient hardware handling.
+  - Understanding and implement interrupt-driven programming for efficient hardware handling.
 
 Assembly Language Proficiency: 
-  - Acquire basic proficiency in assembly language relevant to hardware programming.
+  - Acquiring basic proficiency in assembly language relevant to hardware programming.
 
 Practical Application: 
-  - Apply theoretical knowledge through hands-on lab sessions.
+  - Applying theoretical knowledge through hands-on lab sessions.
 
-CS 341 is a challenging course that combines theoretical knowledge with practical skills in computer architecture and hardware-level programming. The course is ideal for students interested in understanding and designing computer hardware systems and those keen on developing a deep understanding of how software interacts with hardware. Active participation in lab sessions is crucial for a comprehensive understanding of the course material.
+CS 341 is a challenging course that combines theoretical knowledge with practical skills in computer architecture and hardware-level programming. For me, it created an interest in understanding and designing computer hardware systems as well as challening me in developing a deeper understanding of how software interacts with hardware. Active participation in lab sessions was also crucial for a comprehensive understanding of the course material.
