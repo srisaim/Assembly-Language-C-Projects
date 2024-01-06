@@ -1,0 +1,23 @@
+/* README for include: global headers for standalone system */
+/* that is, headers used in multiple source directories */
+/* all but sysapi and sasys are derived from Linux */
+
+/* for tiny C library (from Linux and Xinu) and dev-indep I/O */
+stdio.h: for printf, etc., plus putc/getc, etc. with devs
+ctype.h: usual ctype, for lib ctype macros
+sysapi.h: included from stdio.h, dev-indep i/o, other sys calls
+
+/* for portability between ELF and a.out build environments */
+linkage.h: macroes for ELF/a.out portable gnu assembly language
+
+/* for hardware functionality */
+io.h: macros for i/o ports
+
+/* for kernel-boot and kernel-tutor interfacing and basic build constants */
+params.h: build constants and locations of boot info, sysapi struct
+
+/* the following are used only in the kernel, not tutor, sources */
+system.h: macros for CPU actions, uses kernel IDT location
+sasys.h: prototypes for kernel-private functions
+
+

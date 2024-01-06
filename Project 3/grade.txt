@@ -1,0 +1,15 @@
+CS341 Machine Project 3
+Grading Rubric
+
+Student Name:srisaim
+																																		Points out of Total
+
+1. Correct and complete implementation of echo											20/20
+
+Total Score for mp3																									20/20
+
+
+Extra credits: Correct and complete implementation of largest       18/20
+
+
+Grader Comments:
