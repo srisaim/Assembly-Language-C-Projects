@@ -1,0 +1,89 @@
+Script started on Thu 15 Dec 2022 09:34:58 AM EST
+tuser@tutor-vserver:~$ SriSaiManjunadh Valluru srisaim
+bash: SriSaiManjunadh: command not found
+tuser@tutor-vserver:~$ Now running Part 1 [K: Simulating the coding P[Kr[Kproblem [K
+bash: Now: command not found
+tuser@tutor-vserver:~$ ssh srisaim@users.cs.umb.edu
+srisaim@users.cs.umb.edu's password: 
+Welcome to Ubuntu 20.04.5 LTS (GNU/Linux 5.4.0-125-generic x86_64)
+
+  System information as of Thu 15 Dec 2022 09:34:32 AM EST
+
+  System load:  1.44                Processes:             502
+  Usage of /:   15.9% of 195.80GB   Users logged in:       9
+  Memory usage: 9%                  IPv4 address for eno1: 158.121.104.215
+  Swap usage:   0%                  IPv4 address for eno2: 158.121.105.215
+  Temperature:  45.0 C
+
+Contact: operator@cs.umb.edu or 617-287-6480
+Last login: Thu Dec 15 09:11:12 2022 from 73.16.36.73
+srisaim@pe15:~$ cd cs341/mp5
+srisaim@pe15:~/cs341/mp5$ make A=watchdog
+make: 'watchdog.lnx' is up to date.
+srisaim@pe15:~/cs341/mp5$ exit
+logout
+Connection to users.cs.umb.edu closed.
+tuser@tutor-vserver:~$ ssh srisaim@users.cs.umb.edu[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow running Part 1: Simulating the coding problem[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18PSriSaiManjunadh Valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Psudo ./charGen1exit[Kmtip -f watchdog.lnxgcc -o charGen1 charGen1.c[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f watchdog.lnxscp srisaim@users.cs.umb.edu:cs341/mp5/* .
+srisaim@users.cs.umb.edu's password: 
+charGen1                                        0%    0     0.0KB/s   --:-- ETAcharGen1                                      100%   17KB  16.7KB/s   00:00    
+charGen1.c                                      0%    0     0.0KB/s   --:-- ETAcharGen1.c                                    100% 8743     8.5KB/s   00:00    
+makefile                                        0%    0     0.0KB/s   --:-- ETAmakefile                                      100% 1708     1.7KB/s   00:00    
+reboot.o                                        0%    0     0.0KB/s   --:-- ETAreboot.o                                      100%  524     0.5KB/s   00:00    
+reboot.s                                        0%    0     0.0KB/s   --:-- ETAreboot.s                                      100%  151     0.2KB/s   00:00    
+syms                                            0%    0     0.0KB/s   --:-- ETAsyms                                          100% 1970     1.9KB/s   00:00    
+timepack.h                                      0%    0     0.0KB/s   --:-- ETAtimepack.h                                    100% 2272     2.2KB/s   00:00    
+timepack_sapc.c                                 0%    0     0.0KB/s   --:-- ETAtimepack_sapc.c                               100% 4356     4.3KB/s   00:00    
+timepack_sapc.o                                 0%    0     0.0KB/s   --:-- ETAtimepack_sapc.o                               100% 9564     9.3KB/s   00:00    
+watchdog.c                                      0%    0     0.0KB/s   --:-- ETAwatchdog.c                                    100% 2664     2.6KB/s   00:00    
+watchdog.lnx                                    0%    0     0.0KB/s   --:-- ETAwatchdog.lnx                                  100%   35KB  35.3KB/s   00:00    
+watchdog.o                                      0%    0     0.0KB/s   --:-- ETAwatchdog.o                                    100% 8292     8.1KB/s   00:00    
+watchdog.syms                                   0%    0     0.0KB/s   --:-- ETAwatchdog.syms                                 100% 1970     1.9KB/s   00:00    
+tuser@tutor-vserver:~$ gcc -o charGen1 charGen1.c
+tuser@tutor-vserver:~$ gcc -o charGen1 charGen1.c[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscp srisaim@users.cs.umb.edu:cs341/mp5/* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Psh srisaim@users.cs.umb.edu[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow running Part 1: Simulating the coding problem[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18PSriSaiManjunadh Valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Psudo ./charGen1exit[Kmtip -f watchdog.lnx
+For command help, type ~?
+For help on args, rerun without args
+Code starts at 0x100100
+Using board # 1 
+Please type <CR> to confirm console setting: 
+Setting console dev to COM2Console: colour EGA+ 80x25
+COM1 at 0x03f8 (irq = 4) is a 16550A
+COM2 at 0x02f8 (irq = 3) is a 16550A
+
+                 Welcome to UMB Tutor for the PC
+   UMB Tutor is a 32-bit protected-mode PC debugger/downloader,
+       based on Linux, UMB Tutor for m68k, and remote gdb.
+UMB Tutor is free software and you are welcome to distribute copies
+of it under certain conditions.  There is no warranty for this program.
+The copyright and warranty provisions follow the Gnu general public
+license, available for view in gdb and elsewhere.  Full sources available.
+--bugs, suggestions, questions to eoneil@cs.umb.edu
+
+Exception 3 at EIP=00057a9b: Breakpoint
+Tutor> ~downloading watchdog.lnx
+
+........Done.
+
+Download done, setting EIP to 100100.
+Tutor> go 100100
+Calling set_intr_gate (irq = 3, n = 0x23) to arm interrupt...
+Commanding PIC to interrupt CPU for irq 3 (COM2_IRQ)
+enabling receiver interrupts in UART...
+...done, entering almost-infinite loop
+new char received is= A
+new char received is= B
+new char received is= C
+new char received is= D
+new char received is= E
+new char received is= F
+new char received is= G
+new char received is= 0
+new char received is= 1
+new char received is= 2
+~q 
+Quit handler: 
+killing process 1907 Leaving board #1
+tuser@tutor-vserver:~$ As you can see after 10 characters [K, the system will get s tuck in an infitie[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexit
+exit
+
+Script done on Thu 15 Dec 2022 09:39:12 AM EST

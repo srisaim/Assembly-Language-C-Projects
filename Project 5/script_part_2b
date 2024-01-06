@@ -1,0 +1,425 @@
+Script started on Thu 15 Dec 2022 10:46:58 AM EST
+tuser@tutor-vserver:~$ SriSai M[K[KManjunadh Valluru srisaim
+bash: SriSaiManjunadh: command not found
+tuser@tutor-vserver:~$ Now running Part 2b: Implement the "Kick the dog" functio n
+bash: Now: command not found
+tuser@tutor-vserver:~$ Now running Part 2b: Implement the "Kick the dog" functionn[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[26PSriSaiManjunadh Valluru srisaim
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kclearmtip -f watchdog.lnxgcc -o charGen1 charGen1.c[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pcat reboot.stimepack_sapc.c[5Pwatchdog.cscp srisaim@users.cs.umb.edu:cs341/mp5/* .
+srisaim@users.cs.umb.edu's password: 
+charGen1                                        0%    0     0.0KB/s   --:-- ETAcharGen1                                      100%   17KB  16.7KB/s   00:00    
+charGen1.c                                      0%    0     0.0KB/s   --:-- ETAcharGen1.c                                    100% 8743     8.5KB/s   00:00    
+makefile                                        0%    0     0.0KB/s   --:-- ETAmakefile                                      100% 1708     1.7KB/s   00:00    
+reboot.o                                        0%    0     0.0KB/s   --:-- ETAreboot.o                                      100%  524     0.5KB/s   00:00    
+reboot.s                                        0%    0     0.0KB/s   --:-- ETAreboot.s                                      100%  151     0.2KB/s   00:00    
+script_part_1                                   0%    0     0.0KB/s   --:-- ETAscript_part_1                                 100% 6977     6.8KB/s   00:00    
+script_part_2a                                  0%    0     0.0KB/s   --:-- ETAscript_part_2a                                100%   16KB  16.1KB/s   00:00    
+syms                                            0%    0     0.0KB/s   --:-- ETAsyms                                          100% 1990     1.9KB/s   00:01    
+timepack.h                                      0%    0     0.0KB/s   --:-- ETAtimepack.h                                    100% 2272     2.2KB/s   00:00    
+timepack_sapc.c                                 0%    0     0.0KB/s   --:-- ETAtimepack_sapc.c                               100% 4454     4.4KB/s   00:00    
+timepack_sapc.o                                 0%    0     0.0KB/s   --:-- ETAtimepack_sapc.o                               100% 9736     9.5KB/s   00:00    
+watchdog.c                                      0%    0     0.0KB/s   --:-- ETAwatchdog.c                                    100% 3073     3.0KB/s   00:00    
+watchdog.lnx                                    0%    0     0.0KB/s   --:-- ETAwatchdog.lnx                                  100%   36KB  35.6KB/s   00:00    
+watchdog.o                                      0%    0     0.0KB/s   --:-- ETAwatchdog.o                                    100% 8944     8.7KB/s   00:00    
+watchdog.syms                                   0%    0     0.0KB/s   --:-- ETAwatchdog.syms                                 100% 1990     1.9KB/s   00:00    
+tuser@tutor-vserver:~$ scp srisaim@users.cs.umb.edu:cs341/mp5/* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow running Part 2b: Implement the "Kick the dog" functionn[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[26PSriSaiManjunadh Valluru srisaim
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kclearmtip -f watchdog.lnxgcc -o charGen1 charGen1.c
+tuser@tutor-vserver:~$ gcc -o charGen1 charGen1.c[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscp srisaim@users.cs.umb.edu:cs341/mp5/* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow running Part 2b: Implement the "Kick the dog" functionn[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[26PSriSaiManjunadh Valluru srisaim
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kclearmtip -f watchdog.lnx
+For command help, type ~?
+For help on args, rerun without args
+Code starts at 0x100100
+Using board # 1 
+Please type <CR> to confirm console setting: 
+Setting console dev to COM2Console: colour EGA+ 80x25
+COM1 at 0x03f8 (irq = 4) is a 16550A
+COM2 at 0x02f8 (irq = 3) is a 16550A
+
+                 Welcome to UMB Tutor for the PC
+   UMB Tutor is a 32-bit protected-mode PC debugger/downloader,
+       based on Linux, UMB Tutor for m68k, and remote gdb.
+UMB Tutor is free software and you are welcome to distribute copies
+of it under certain conditions.  There is no warranty for this program.
+The copyright and warranty provisions follow the Gnu general public
+license, available for view in gdb and elsewhere.  Full sources available.
+--bugs, suggestions, questions to eoneil@cs.umb.edu
+
+Exception 3 at EIP=00057a9b: Breakpoint
+Tutor> ~downloading watchdog.lnx
+
+.........Done.
+
+Download done, setting EIP to 100100.
+Tutor> go 100100
+Calling set_intr_gate (irq = 3, n = 0x23) to arm interrupt...
+Commanding PIC to interrupt CPU for irq 3 (COM2_IRQ)
+enabling receiver interrupts in UART...
+...done, entering almost-infinite loop
+new char received is= A
+new char received is= B
+new char received is= C
+new char received is= D
+new char received is= E
+new char received is= F
+new char received is= G
+new char received is= 0
+new char received is= 1
+new char received is= 2
+Calling set_intr_gate (irq = 3, n = 0x23) to arm interrupt...
+Commanding PIC to interrupt CPU for irq 3 (COM2_IRQ)
+enabling receiver interrupts in UART...
+...done, entering almost-infinite loop
+new char received is= R
+new char received is= S
+new char received is= 0
+new char received is= 1
+new char received is= 2
+new char received is= 3
+new char received is= 4
+new char received is= 5
+new char received is= 6
+new char received is= m
+Calling set_intr_gate (irq = 3, n = 0x23) to arm interrupt...
+Commanding PIC to interrupt CPU for irq 3 (COM2_IRQ)
+enabling receiver interrupts in UART...
+...done, entering almost-infinite loop
+new char received is= 3
+new char received is= 4
+new char received is= 5
+new char received is= 6
+new char received is= a
+new char received is= b
+new char received is= c
+new char received is= d
+new char received is= e
+new char received is= f
+Calling set_intr_gate (irq = 3, n = 0x23) to arm interrupt...
+Commanding PIC to interrupt CPU for irq 3 (COM2_IRQ)
+enabling receiver interrupts in UART...
+...done, entering almost-infinite loop
+new char received is= n
+new char received is= o
+new char received is= p
+new char received is= q
+new char received is= r
+new char received is= s
+new char received is= A
+new char received is= B
+new char received is= C
+new char received is= D
+Calling set_intr_gate (irq = 3, n = 0x23) to arm interrupt...
+Commanding PIC to interrupt CPU for irq 3 (COM2_IRQ)
+enabling receiver interrupts in UART...
+...done, entering almost-infinite loop
+new char received is= g
+new char received is= M
+new char received is= N
+new char received is= O
+new char received is= P
+new char received is= Q
+new char received is= R
+new char received is= S
+new char received is= 0
+new char received is= 1
+Calling set_intr_gate (irq = 3, n = 0x23) to arm interrupt...
+Commanding PIC to interrupt CPU for irq 3 (COM2_IRQ)
+enabling receiver interrupts in UART...
+...done, entering almost-infinite loop
+new char received is= E
+new char received is= F
+new char received is= G
+new char received is= 0
+new char received is= 1
+new char received is= 2
+new char received is= 3
+new char received is= 4
+new char received is= 5
+new char received is= 6
+Calling set_intr_gate (irq = 3, n = 0x23) to arm interrupt...
+Commanding PIC to interrupt CPU for irq 3 (COM2_IRQ)
+enabling receiver interrupts in UART...
+...done, entering almost-infinite loop
+new char received is= 2
+new char received is= 3
+new char received is= 4
+new char received is= 5
+new char received is= 6
+new char received is= m
+new char received is= n
+new char received is= o
+new char received is= p
+new char received is= q
+Calling set_intr_gate (irq = 3, n = 0x23) to arm interrupt...
+Commanding PIC to interrupt CPU for irq 3 (COM2_IRQ)
+enabling receiver interrupts in UART...
+...done, entering almost-infinite loop
+new char received is= a
+new char received is= b
+new char received is= c
+~q 
+Quit handler: 
+killing process 1870 Leaving board #1
+tuser@tutor-vserver:~$ clear
+[H[Jtuser@tutor-vserver:~$ cat watchdog.c
+/* watchdog.c - program to simulate a watchdog timer
+   using code from typewr.c
+   The needed interrupt envelope routines irq3int, etc. are in           
+   the library, and sti, cli, pic_enable_irq, etc., are there too.     */
+#include <stdio.h>
+#include <serial.h>
+#include <cpu.h>
+#include <pic.h>
+#include "timepack.h"
+
+extern IntHandler irq3inthand; /* the assembler envelope routine    */
+void irq3inthandc(void);  /* the C core int handler, called from envelope */
+void do_work(void);
+void shutdown(void);
+void kick_dog(void);               /* Creating kick_dog(void) */
+void set_timer_count(int count);   /* Creating set_timer_count(int count) */
+
+int done = 0;			/* global for communication with int hand */
+int count = 0;
+char ch;
+char save_ch = '\0';
+
+/* Note in our enviroment, interrupts are normally enabled in the CPU, so we
+   use cli() as necessary even at the very start of the program */
+int main(void)
+{
+
+  /* init global explicitly, so program works properly on reruns */
+  done = 0;			
+				 
+  cli();			/* disable ints while setting them up */
+
+  // set up interrupt for COM2 port
+  printf("Calling set_intr_gate (irq = 3, n = 0x23) to arm interrupt...\n");
+  set_intr_gate(COM2_IRQ+IRQ_TO_INT_N_SHIFT, &irq3inthand);
+
+  printf("Commanding PIC to interrupt CPU for irq 3 (COM2_IRQ)\n");
+  pic_enable_irq(COM2_IRQ);
+
+  printf("enabling receiver interrupts in UART...\n");
+  outpt(COM2_BASE+UART_IER, UART_IER_RDI); /* RDI = receiver data int */
+ //
+ // insert code to set up timer interrupt
+  inittimer();
+  sti();
+ //
+ // enter into the main function
+   printf("...done, entering almost-infinite loop\n");
+   starttimer();
+   while (!done)			/* loop almost forever...*/
+   {
+     do_work();                         /* loop to do work */
+   }
+  //
+  // All done
+    shutdown();
+  return 0;
+}
+
+// Function kick_dog() which calls the set_timer_count() function
+void kick_dog(void) {
+	set_timer_count(0); /* reset the count back to 0 */
+}
+
+// Function to take character received and display them with comments
+void do_work(void)
+{
+   if(save_ch != ch)
+   { 
+        printf("new char received is= %c\n", ch);
+        save_ch = ch;
+   }
+   //simulate software failure
+   while (count >9 );  /* infinite loop when receiver char count >=10 */
+   kick_dog(); /* implementing kickdog() at the end of do_work() function */
+}
+
+void shutdown(void){
+  /* here when user types 'q': shutdown ints we started up */
+  cli();
+  pic_disable_irq(COM2_IRQ);	/* done with irq 3 in PIC */
+  outpt(COM2_BASE+UART_IER, 0); /* stop UART ints */
+  shutdowntimer();
+  sti();			/* but other ints still there */
+}
+
+/* this is called from irq3inthand, the assembler interrupt envelope routine */
+/* that saves the C scratch regs on the stack, restores them after this,  */
+/* then does the iret instruction.                                        */
+void irq3inthandc(void)
+{
+  count++;
+  pic_end_int();		/* notify PIC that its part is done */
+  ch = inpt(COM2_BASE+UART_RX);	/* read char (ACKs UART too) */
+  if (ch == 'z')
+    done = 1;			/* set global flag to let main know */
+}
+tuser@tutor-vserver:~$ cat timepack_sapc.c
+
+/******************************************************************
+*
+*   file:      timepack_sapc.c
+*   author:    Betty O'Neil
+*   date:      '88 (MECB)
+*
+*   revisions: Ethan Bolker, October 1990 to #include header file timepack.h
+*              Betty O'Neil, March 1992 to add inittimer
+*              Betty O'Neil, S96 to SAPC
+*              Bob Wilson, spring 2014
+*
+*   SAPC timing package.
+*   Link with code containing calls to stoptimer, starttimer
+*
+*   To do:
+*      Implement static flag set when timer is running
+*        (for now everything returns T_OK)
+*/
+
+/* constants and prototypes for timing package primitives */
+#include <stdio.h>
+#include "timepack.h"
+#include <timer.h>
+#include <pic.h>
+#include <cpu.h>
+
+typedef enum { FALSE, TRUE } Boolean;
+
+/* PC's 8254 timer: one tick consists of 64K counts at 1193182 counts/sec */
+#define COUNTS_PER_SEC 1193182 
+#define COUNTS_PER_TICK (64*1024)
+/* This is a double constant--see K&R, p. 37.  Doubles are great for
+ conversion constants.  Just convert back to int at end if apprpriate */
+#define USECS_PER_TICK (1000000.0*COUNTS_PER_TICK/COUNTS_PER_SEC)
+/* precision = time between possible values, in us */
+#define TIMER_PRECISION 1
+
+extern const IntHandler irq0inthand;
+
+static int tickcount;
+static int startcount;
+static int timer_running;
+
+void set_timer_count(int count);
+void irq0inthandc(void);
+void smalldelay(void);
+
+/* set timer ticking.  This is called only once at start of program */
+void inittimer()
+{
+  tickcount = 0;
+#ifdef DEBUG
+  printf("Disabling interrupts in CPU while setting them up\n");
+#endif
+  cli();
+#ifdef DEBUG  
+  printf("Setting interrupt gate for timer, irq 0\n");
+#endif
+  /* irq 0 maps to slot n = 0x20 in IDT for linux setup */
+  set_intr_gate(TIMER0_IRQ+IRQ_TO_INT_N_SHIFT, &irq0inthand);
+#ifdef DEBUG
+  printf("Commanding PIC to interrupt CPU for irq 0\n");
+#endif
+  pic_enable_irq(TIMER0_IRQ);
+  timer_running = 0;		/* starts running at call to starttimer */
+#ifdef DEBUG
+  printf("Commanding timer to generate a pulse train using max count\n");
+#endif
+  set_timer_count(0);	
+#ifdef DEBUG
+  printf("Enabling interrupts in CPU\n");
+#endif
+  sti();
+}
+
+/* This is NEEDED: future ints could find bogus int handler after this
+ * code is overwritten by next download or whatever, requiring reboot.
+ * This is called once at end of program.
+ */
+void shutdowntimer()
+{
+  cli();
+#ifdef DEBUG
+  printf("Commanding PIC to shut off irq 0 to CPU\n");
+#endif
+  pic_disable_irq(TIMER0_IRQ);	/* disallow irq 0 ints to get to CPU */
+  sti();
+}
+
+/*  for the SAPC case:  microsecond precision (though not microsecond
+ *  *accuracy* because of various overhead times involved)
+*/
+void querytimer(int *precision, int *running)
+{
+   *precision = TIMER_PRECISION;
+   *running = timer_running;
+   return;
+}
+
+/* start a timed experiment: improve this along with stoptimer */
+int starttimer()
+{
+  startcount = tickcount;
+  timer_running = TRUE;
+  return T_OK;
+}
+
+/* temporary crude way: better to read the counter and add in the downcounts
+ * (converted to us) since the last tick, and similarly change starttime 
+ * to record the starting downcount, and adjust for another partial tick.
+ * Remember that printf takes a *lot* of time!!  Don't do it during experiments.
+ */
+int stoptimer( int *interval )
+{
+  *interval = (tickcount - startcount)*USECS_PER_TICK;
+#ifdef DEBUG
+  printf("stoptimer reached, returning inaccurate time until fixed\n");
+#endif
+  timer_running = FALSE;
+  return T_OK;
+}
+
+/* about 10 us on a SAPC (400Mhz Pentium) */
+void smalldelay(void)
+{
+  int i;
+  
+  for (i=0;i<1000;i++)
+    ;
+}
+
+/* Set up timer to count down from given count, then send a tick interrupt, */
+/* over and over. A count of 0 sets max count, 65536 = 2**16 */
+void set_timer_count(int count)
+{
+  outpt(TIMER_CNTRL_PORT, TIMER0|TIMER_SET_ALL|TIMER_MODE_RATEGEN);
+  outpt(TIMER0_COUNT_PORT,count&0xff); /* set LSB here */
+  outpt(TIMER0_COUNT_PORT,count>>8); /* and MSB here */
+  smalldelay();			/* give the timer a moment to init. */
+}
+
+/* timer interrupt handler */
+void irq0inthandc(void)
+{
+  pic_end_int();		/* notify PIC that its part is done */
+  tickcount++;			/* count the tick in global var */
+  if (tickcount %300==0)reboot(); /* as mentioned in pdf, this will do reboot every 300* 55ms */
+ // kprintf("Interrupt ISR\n");
+}
+tuser@tutor-vserver:~$ cat reboot.s
+   # function to restart the application
+.globl reboot
+   .text
+reboot:
+   jmp 0x100100                    #rreboot code
+   ret              
+   .end
+
+tuser@tutor-vserver:~$ exit[K[K[K[KDone
+bash: Done: command not found
+tuser@tutor-vserver:~$ exit
+exit
+
+Script done on Thu 15 Dec 2022 10:52:43 AM EST

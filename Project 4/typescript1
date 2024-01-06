@@ -1,0 +1,117 @@
+Script started on Wed 30 Nov 2022 09:33:20 AM EST
+tuser@tutor-vserver:~$ clearmtip -f largest.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/largest.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f echo.lnxclear[Kmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[KCLEAREAR[1PARmtip -f largest.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/largest.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cript[K[1Pclearmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[K[3Plsmv typescript echo.scriptecho.script typescript[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript[K[1Pclear[3Plsclearrm typescriptls[Krm script[4Pclearmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20PNow showing run of echo.lnx[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kclear[1Pexitsrisaimanjunadh valluru srisaim
+bash: srisaimanjunadh: command not found
+tuser@tutor-vserver:~$ Now showing run of Part 1: Existing Code
+bash: Now: command not found
+tuser@tutor-vserver:~$ Now showing run of Part 1: Existing Code[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[9Psrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f largest.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/largest.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f echo.lnxclear[Kmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[KCLEAREAR[1PARmtip -f largest.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/largest.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cript[K[1Pclearmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[K[3Plsmv typescript echo.scriptecho.script typescript[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript[K[1Pclear[3Plsclearrm typescriptls[Krm script[4Pclearmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20PNow showing run of echo.lnx[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4PNow showing run of echo.lnx[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20PNow showing run of echo.lnx[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kclearmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20PNow showing run of echo.lnx[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15Pmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cript[K[1Pclearrm scriptls[Kclear[1Pexitclearmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20PNow showing run of echo.lnx[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f echo.lnxls[Kscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[K[3Plsmv typescript mp2_part3_typescript[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kclearscript[1Pclear[3Plsmv typescript mp2_part2_typescript[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kvi typescriptls[Kclearscript[1Pclear[3Plsclearscript[2Pexitssh srisaim@users.cs.umb.edu[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow capturing the execution of following commands, pwd, lss -lg, cat for printbin on cs server[A[29Pssh srisaim@users.cs.umb.edu
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+srisaim@users.cs.umb.edu's password: 
+Welcome to Ubuntu 20.04.5 LTS (GNU/Linux 5.4.0-125-generic x86_64)
+
+  System information as of Wed 30 Nov 2022 09:32:57 AM EST
+
+  System load:  3.03                Processes:             543
+  Usage of /:   15.5% of 195.80GB   Users logged in:       9
+  Memory usage: 9%                  IPv4 address for eno1: 158.121.104.215
+  Swap usage:   0%                  IPv4 address for eno2: 158.121.105.215
+  Temperature:  55.0 C
+
+Contact: operator@cs.umb.edu or 617-287-6480
+Last login: Wed Nov 30 09:19:59 2022 from 73.16.36.73
+srisaim@pe15:~$ cd cs341/mp4
+srisaim@pe15:~/cs341/mp4$ ls
+charGen    measure.c	measure.syms  timepack.h       timer.c
+charGen.c  measure.lnx	Rubric.docx   timepack_sapc.c
+makefile   measure.o	syms	      timepack_sapc.o
+srisaim@pe15:~/cs341/mp4$ make C=measure
+gcc -gdwarf-2 -gstrict-dwarf -march=i586 -m32 -fno-builtin -fno-stack-protector -nostdlib -c -Wall -I/home/cheungr/serl/tutor-linux/include -c -o timepack_sapc.o timepack_sapc.c
+ld -m elf_i386 -N -Ttext 100100 -o measure.lnx \
+	/home/cheungr/serl/tutor-linux/libc/startup0.o /home/cheungr/serl/tutor-linux/libc/startup.o \
+	measure.o timepack_sapc.o /home/cheungr/serl/tutor-linux/libc/libc.a
+rm -f syms;nm -n measure.lnx>measure.syms;ln -s measure.syms syms
+srisaim@pe15:~/cs341/mp4$ exit
+logout
+Connection to users.cs.umb.edu closed.
+tuser@tutor-vserver:~$ clear
+[H[Jtuser@tutor-vserver:~$ clearssh srisaim@users.cs.umb.edu[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow showing run of Part 1: Existing Code[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[9Psrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f largest.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/largest.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[31Pmtip -f echo.lnxclear[Kmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f echo.lnxclear[Kscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[31Pmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f echo.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/echo.* .[1P[1P[1P[1P[1P[1P[1@4
+srisaim@users.cs.umb.edu's password: 
+charGen                                         0%    0     0.0KB/s   --:-- ETAcharGen                                       100%   17KB  16.8KB/s   00:00    
+charGen.c                                       0%    0     0.0KB/s   --:-- ETAcharGen.c                                     100% 8835     8.6KB/s   00:00    
+makefile                                        0%    0     0.0KB/s   --:-- ETAmakefile                                      100% 2408     2.4KB/s   00:01    
+measure.c                                       0%    0     0.0KB/s   --:-- ETAmeasure.c                                     100% 2503     2.4KB/s   00:00    
+measure.lnx                                     0%    0     0.0KB/s   --:-- ETAmeasure.lnx                                   100%   35KB  34.9KB/s   00:00    
+measure.o                                       0%    0     0.0KB/s   --:-- ETAmeasure.o                                     100% 7940     7.8KB/s   00:00    
+measure.syms                                    0%    0     0.0KB/s   --:-- ETAmeasure.syms                                  100% 1879     1.8KB/s   00:00    
+Rubric.docx                                     0%    0     0.0KB/s   --:-- ETARubric.docx                                   100%   13KB  13.1KB/s   00:00    
+syms                                            0%    0     0.0KB/s   --:-- ETAsyms                                          100% 1879     1.8KB/s   00:00    
+timepack.h                                      0%    0     0.0KB/s   --:-- ETAtimepack.h                                    100% 2272     2.2KB/s   00:00    
+timepack_sapc.c                                 0%    0     0.0KB/s   --:-- ETAtimepack_sapc.c                               100% 4323     4.2KB/s   00:00    
+timepack_sapc.o                                 0%    0     0.0KB/s   --:-- ETAtimepack_sapc.o                               100% 9564     9.3KB/s   00:00    
+timer.c                                         0%    0     0.0KB/s   --:-- ETAtimer.c                                       100% 2002     2.0KB/s   00:00    
+tuser@tutor-vserver:~$ scp srisaim@users.cs.umb.edu:cs341/mp4/* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kssh srisaim@users.cs.umb.edu[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow showing run of Part 1: Existing Code[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[9Psrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f largest.lnxscp srisaim@users.cs.umb.edu:cs341/mp3/largest.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[31Pmtip -f largest.lnx[C[1P.lnx[1P.lnx[1P.lnx[1P.lnx[1P.lnx[1P.lnx[1P.lnxm.lnxe.lnxa.lnx[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgcc -o charGen charGen.c
+tuser@tutor-vserver:~$ gcc -o charGen charGen.cscp srisaim@users.cs.umb.edu:cs341/mp4/* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kssh srisaim@users.cs.umb.edu[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow showing run of Part 1: Existing Code[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[9Psrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kmtip -f largest.lnx[1P.lnx[1P.lnx[1P.lnx[1P.lnx[1P.lnx[1P.lnx[1P.lnxm.lnxe.lnxa.lnxs.lnxu.lnxr.lnxe.lnx
+For command help, type ~?
+For help on args, rerun without args
+Code starts at 0x100100
+Using board # 1 
+~downloading measure.lnx
+
+........Done.
+
+Download done, setting EIP to 100100.
+Tutor> go 100100
+Calling set_intr_gate (irq = 3, n = 0x23) to arm interrupt...
+Commanding PIC to interrupt CPU for irq 3 (COM2_IRQ)
+enabling receiver interrupts in UART...
+...done, entering almost-infinite loop
+time interval= 43885395 us for char=A
+time interval= 988657 us for char=B
+time interval= 988657 us for char=C
+time interval= 988657 us for char=D
+time interval= 1043582 us for char=E
+time interval= 988657 us for char=F
+time interval= 988657 us for char=G
+time interval= 988657 us for char=0
+time interval= 2032239 us for char=1
+time interval= 1977314 us for char=2
+time interval= 2032239 us for char=3
+time interval= 1977314 us for char=4
+time interval= 1977314 us for char=5
+time interval= 2032239 us for char=6
+time interval= 1977314 us for char=a
+time interval= 3020897 us for char=b
+time interval= 3020897 us for char=c
+time interval= 2965971 us for char=d
+time interval= 3020897 us for char=e
+time interval= 2965971 us for char=f
+time interval= 3020897 us for char=g
+time interval= 3020897 us for char=M
+time interval= 54925 us for char=N
+time interval= 54925 us for char=O
+time interval= 109850 us for char=P
+time interval= 54925 us for char=Q
+time interval= 54925 us for char=R
+time interval= 54925 us for char=S
+time interval= 109850 us for char=0
+time interval= 54925 us for char=1
+time interval= 109850 us for char=2
+time interval= 54925 us for char=3
+time interval= 109850 us for char=4
+time interval= 54925 us for char=5
+time interval= 54925 us for char=6
+time interval= 109850 us for char=t
+time interval= 109850 us for char=u
+time interval= 54925 us for char=v
+time interval= 109850 us for char=w
+time interval= 109850 us for char=x
+time interval= 54925 us for char=y
+time interval= 109850 us for char=z
+Exception 3 at EIP=00100110: Breakpoint
+Tutor> ~q 
+Quit handler: 
+killing process 1931 Leaving board #1
+tuser@tutor-vserver:~$ clear
+[H[Jtuser@tutor-vserver:~$ exit
+exit
+
+Script done on Wed 30 Nov 2022 09:40:36 AM EST

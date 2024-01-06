@@ -1,0 +1,103 @@
+Script started on Sat 03 Dec 2022 05:26:36 PM EST
+tuser@tutor-vserver:~$ srisaimanjunadh [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[KSriSaiManjunadh Valluru srisaim
+bash: SriSaiManjunadh: command not found
+tuser@tutor-vserver:~$ Now Show[K[K[K[Kshowing Part 2: modified code
+bash: Now: command not found
+tuser@tutor-vserver:~$ Now showing Part 2: modified code[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2PSriSaiManjunadh Valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Ksudo ./charGenexit[Kclearmtip -f measure.lnxgcc -o charGen charGen.cscp srisaim@users.cs.umb.edu:cs341/mp4/* .
+srisaim@users.cs.umb.edu's password: 
+charGen                                         0%    0     0.0KB/s   --:-- ETAcharGen                                       100%   17KB  16.8KB/s   00:00    
+charGen.c                                       0%    0     0.0KB/s   --:-- ETAcharGen.c                                     100% 8835     8.6KB/s   00:00    
+makefile                                        0%    0     0.0KB/s   --:-- ETAmakefile                                      100% 2408     2.4KB/s   00:00    
+measure.c                                       0%    0     0.0KB/s   --:-- ETAmeasure.c                                     100% 2503     2.4KB/s   00:00    
+measure.lnx                                     0%    0     0.0KB/s   --:-- ETAmeasure.lnx                                   100%   35KB  35.2KB/s   00:00    
+measure.o                                       0%    0     0.0KB/s   --:-- ETAmeasure.o                                     100% 7940     7.8KB/s   00:00    
+measure.syms                                    0%    0     0.0KB/s   --:-- ETAmeasure.syms                                  100% 1872     1.8KB/s   00:00    
+Rubric.docx                                     0%    0     0.0KB/s   --:-- ETARubric.docx                                   100%   13KB  13.1KB/s   00:00    
+syms                                            0%    0     0.0KB/s   --:-- ETAsyms                                          100% 1872     1.8KB/s   00:00    
+timepack.h                                      0%    0     0.0KB/s   --:-- ETAtimepack.h                                    100% 2272     2.2KB/s   00:00    
+timepack_sapc.c                                 0%    0     0.0KB/s   --:-- ETAtimepack_sapc.c                               100% 4755     4.6KB/s   00:00    
+timepack_sapc.o                                 0%    0     0.0KB/s   --:-- ETAtimepack_sapc.o                               100% 9872     9.6KB/s   00:00    
+timer.c                                         0%    0     0.0KB/s   --:-- ETAtimer.c                                       100% 2002     2.0KB/s   00:00    
+typescript1                                     0%    0     0.0KB/s   --:-- ETAtypescript1                                   100%   16KB  16.0KB/s   00:00    
+tuser@tutor-vserver:~$ scp srisaim@users.cs.umb.edu:cs341/mp4/* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[9PNow showing Part 2: modified code[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2PSriSaiManjunadh Valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Ksudo ./charGenexit[Kclearmtip -f measure.lnxgcc -o charGen charGen.c
+tuser@tutor-vserver:~$ gcc -o charGen charGen.cscp srisaim@users.cs.umb.edu:cs341/mp4/* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[9PNow showing Part 2: modified code[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2PSriSaiManjunadh Valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Ksudo ./charGenexit[Kclearmtip -f measure.lnx
+For command help, type ~?
+For help on args, rerun without args
+Code starts at 0x100100
+Using board # 1 
+Please type <CR> to confirm console setting: 
+Setting console dev to COM2Console: colour EGA+ 80x25
+COM1 at 0x03f8 (irq = 4) is a 16550A
+COM2 at 0x02f8 (irq = 3) is a 16550A
+
+                 Welcome to UMB Tutor for the PC
+   UMB Tutor is a 32-bit protected-mode PC debugger/downloader,
+       based on Linux, UMB Tutor for m68k, and remote gdb.
+UMB Tutor is free software and you are welcome to distribute copies
+of it under certain conditions.  There is no warranty for this program.
+The copyright and warranty provisions follow the Gnu general public
+license, available for view in gdb and elsewhere.  Full sources available.
+--bugs, suggestions, questions to eoneil@cs.umb.edu
+
+Exception 3 at EIP=00057a9b: Breakpoint
+Tutor> ~downloading measure.lnx
+
+.........Done.
+
+Download done, setting EIP to 100100.
+Tutor> go 100100
+Calling set_intr_gate (irq = 3, n = 0x23) to arm interrupt...
+Commanding PIC to interrupt CPU for irq 3 (COM2_IRQ)
+enabling receiver interrupts in UART...
+...done, entering almost-infinite loop
+time interval= 5245103 us for char=A
+time interval= 1001294 us for char=B
+time interval= 997201 us for char=C
+time interval= 999215 us for char=D
+time interval= 1001440 us for char=E
+time interval= 1002318 us for char=F
+time interval= 998777 us for char=G
+time interval= 1006718 us for char=0
+time interval= 1996940 us for char=1
+time interval= 1999485 us for char=2
+time interval= 2002132 us for char=3
+time interval= 2000880 us for char=4
+time interval= 1999923 us for char=5
+time interval= 2000440 us for char=6
+time interval= 1999352 us for char=a
+time interval= 2999576 us for char=b
+time interval= 3003150 us for char=c
+time interval= 3000803 us for char=d
+time interval= 3000869 us for char=e
+time interval= 3000455 us for char=f
+time interval= 2999475 us for char=g
+time interval= 3002121 us for char=M
+time interval= 69368 us for char=N
+time interval= 69112 us for char=O
+time interval= 71690 us for char=P
+time interval= 71762 us for char=Q
+time interval= 70050 us for char=R
+time interval= 68489 us for char=S
+time interval= 69866 us for char=0
+time interval= 81066 us for char=1
+time interval= 79853 us for char=2
+time interval= 79950 us for char=3
+time interval= 84089 us for char=4
+time interval= 79341 us for char=5
+time interval= 78154 us for char=6
+time interval= 83630 us for char=t
+time interval= 89317 us for char=u
+time interval= 89097 us for char=v
+time interval= 96273 us for char=w
+time interval= 86796 us for char=x
+time interval= 90815 us for char=y
+time interval= 90526 us for char=z
+Exception 3 at EIP=00100110: Breakpoint
+Tutor> ~q 
+Quit handler: 
+killing process 1950 Leaving board #1
+tuser@tutor-vserver:~$ clear
+[H[Jtuser@tutor-vserver:~$ exit
+exit
+
+Script done on Sat 03 Dec 2022 05:29:42 PM EST
