@@ -1,0 +1,194 @@
+Script started on Sat 22 Oct 2022 09:53:30 PM EDT
+tuser@tutor-vserver:~$ Sris[K[K[K[Ksrisaimanjunadh valluru srisaim
+bash: srisaimanjunadh: command not found
+tuser@tutor-vserver:~$ srisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kssh srisaim@users.cs.umb.edu[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kssh srisaim@users.cs.umb.edu
+srisaim@users.cs.umb.edu's password: 
+Welcome to Ubuntu 20.04.5 LTS (GNU/Linux 5.4.0-125-generic x86_64)
+
+  System information as of Sat 22 Oct 2022 09:53:02 PM EDT
+
+  System load:  0.18                Processes:             665
+  Usage of /:   16.2% of 195.80GB   Users logged in:       20
+  Memory usage: 5%                  IPv4 address for eno1: 158.121.104.215
+  Swap usage:   0%                  IPv4 address for eno2: 158.121.105.215
+  Temperature:  44.0 C
+
+Contact: operator@cs.umb.edu or 617-287-6480
+Last login: Sat Oct 22 21:51:42 2022 from 73.16.36.73
+srisaim@pe15:~$ cd cs341/mp2/warmup
+srisaim@pe15:~/cs341/mp2/warmup$ ls
+tiny.lnx  tiny.o  tiny.s
+srisaim@pe15:~/cs341/mp2/warmup$ lscd cs341/mp2/warmupexit[Kas --32 -al -o tiny.o tiny.s
+GAS LISTING tiny.s 			page 1
+
+
+   1              	# tiny.s: mp2warmup program
+   2              	
+   3              	        .globl _start
+   4              	_start:
+   5 0000 B8080000 		movl $8, %eax
+   5      00
+   6 0005 83C003   		addl $0x3, %eax
+   7 0008 A3000200 		movl %eax, 0x200
+   7      00
+   8 000d CC       		int $3
+   9              	   	.end
+srisaim@pe15:~/cs341/mp2/warmup$ ld -m elf-i386 -N[K[K[K[K[K[K[K[K_i386 -N -Ttext 0x100100 -o tiny.lnx t iny.o
+srisaim@pe15:~/cs341/mp2/warmup$ ld -m elf_i386 -N -Ttext 0x100100 -o tiny.lnx tiny.o[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kobjdump -S tiny.lnx
+
+tiny.lnx:     file format elf32-i386
+
+
+Disassembly of section .text:
+
+00100100 <_start>:
+  100100:	b8 08 00 00 00       	mov    $0x8,%eax
+  100105:	83 c0 03             	add    $0x3,%eax
+  100108:	a3 00 02 00 00       	mov    %eax,0x200
+  10010d:	cc                   	int3   
+srisaim@pe15:~/cs341/mp2/warmup$ objdump -S tiny.lnxld -m elf_i386 -N -Ttext 0x100100 -o tiny.lnx tiny.o[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Pas --32 -al -o tiny.o tiny.s
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd cs341/mp2/warmupexit[Kas --32 -al -o tiny.o tiny.sls[Kcd cs341/mp2/warmupexit[Kpe15$ as --32 -al -o tiny.o tiny.s[1P0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@o[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd cs341/mp2/warmupexit[K[2Plscdlearvi typescriptls[Kcd cs341/mp1ls[Kcdlearvi mp2_part1_typescriptls[Kclear[3Plsmv typescript mp2_part1_typescriptls[Kcd cs341/mp2/part1lear[K[1Pexitclearvi typescriptls[Kcd cs341/mp1ls[Kexitclearmake A=countls[Kcd cs341/mp2/part1exit[Kclearvi count.smake A=count[K[K[K[K[K[K[K[K[K[K[K[Kscp srisaim[K[K[K[K[K[K[K[K[K[K[Kexit
+logout
+Connection to users.cs.umb.edu closed.
+tuser@tutor-vserver:~$ ls
+[0m[01;32mcount.lnx[0m  count.syms  [01;34mlib[0m       testelf.syms  tiny.o   [01;32mtutor.lnx[0m
+count.o    [01;34mcs341[0m       [01;34mtestaout[0m  test.s        tiny.s   tutor.o
+count.s    [01;34minclude[0m     [01;34mtestelf[0m   [01;32mtiny.lnx[0m      tutor.c  typescript
+tuser@tutor-vserver:~$ mtip -f tiny.lnx
+For command help, type ~?
+For help on args, rerun without args
+Code starts at 0x100100
+Using board # 1 
+Please type <CR> to confirm console setting: 
+Setting console dev to COM2Console: colour EGA+ 80x25
+COM1 at 0x03f8 (irq = 4) is a 16550A
+COM2 at 0x02f8 (irq = 3) is a 16550A
+
+                 Welcome to UMB Tutor for the PC
+   UMB Tutor is a 32-bit protected-mode PC debugger/downloader,
+       based on Linux, UMB Tutor for m68k, and remote gdb.
+UMB Tutor is free software and you are welcome to distribute copies
+of it under certain conditions.  There is no warranty for this program.
+The copyright and warranty provisions follow the Gnu general public
+license, available for view in gdb and elsewhere.  Full sources available.
+--bugs, suggestions, questions to eoneil@cs.umb.edu
+
+Exception 3 at EIP=00057a9b: Breakpoint
+Tutor> ~downloading tiny.lnx
+
+.Done.
+
+Download done, setting EIP to 100100.
+Tutor> go 100100
+Exception 3 at EIP=0010010e: Breakpoint
+Tutor> md 100100
+00100100    b8 08 00 00 00 83 c0 03 a3 00 02 00 00 cc d4 83 ................
+Tutor> rd
+EAX=0000000b EBX=00000000   EBP=00057890
+EDX=00000000 ECX=0006967c   ESP=0005788c
+ESI=00013e10 EDI=00051ffc   EIP=0010010e
+EFLAGS=0202 (IF=1 SF=0 ZF=0 CF=0 OF=0)
+Tutor> md 200
+00000200    0b 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ................
+Tutor> ms 200 00000000
+Tutor> <Esc>
+A ms 200 00         ms 200      md 200
+00000200    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ................
+Tutor> rs eip 100100
+Tutor> t
+Exception 1 at EIP=00100105: Debugger interrupt
+Tutor> rd
+EAX=00000008 EBX=00000000   EBP=00057890
+EDX=00000000 ECX=0006967c   ESP=0005788c
+ESI=00013e10 EDI=00051ffc   EIP=00100105
+EFLAGS=0302 (IF=1 SF=0 ZF=0 CF=0 OF=0)
+Tutor> md 200
+00000200    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ................
+Tutor> t
+Exception 1 at EIP=00100108: Debugger interrupt
+Tutor> rd
+EAX=0000000b EBX=00000000   EBP=00057890
+EDX=00000000 ECX=0006967c   ESP=0005788c
+ESI=00013e10 EDI=00051ffc   EIP=00100108
+EFLAGS=0302 (IF=1 SF=0 ZF=0 CF=0 OF=0)
+Tutor> md 200
+00000200    00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ................
+Tutor> t
+Exception 1 at EIP=0010010d: Debugger interrupt
+Tutor> rd
+EAX=0000000b EBX=00000000   EBP=00057890
+EDX=00000000 ECX=0006967c   ESP=0005788c
+ESI=00013e10 EDI=00051ffc   EIP=0010010d
+EFLAGS=0302 (IF=1 SF=0 ZF=0 CF=0 OF=0)
+Tutor> md 200
+00000200    0b 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ................
+Tutor> t ~q 
+Quit handler: 
+killing process 1808 Leaving board #1
+tuser@tutor-vserver:~$ ls
+[0m[01;32mcount.lnx[0m  count.syms  [01;34mlib[0m       testelf.syms  tiny.o   [01;32mtutor.lnx[0m
+count.o    [01;34mcs341[0m       [01;34mtestaout[0m  test.s        tiny.s   tutor.o
+count.s    [01;34minclude[0m     [01;34mtestelf[0m   [01;32mtiny.lnx[0m      tutor.c  typescript
+tuser@tutor-vserver:~$ lsmtip -f tiny.lnx
+For command help, type ~?
+For help on args, rerun without args
+Code starts at 0x100100
+Using board # 1 
+Please type <CR> to confirm console setting: 
+Setting console dev to COM2Console: colour EGA+ 80x25
+COM1 at 0x03f8 (irq = 4) is a 16550A
+COM2 at 0x02f8 (irq = 3) is a 16550A
+
+                 Welcome to UMB Tutor for the PC
+   UMB Tutor is a 32-bit protected-mode PC debugger/downloader,
+       based on Linux, UMB Tutor for m68k, and remote gdb.
+UMB Tutor is free software and you are welcome to distribute copies
+of it under certain conditions.  There is no warranty for this program.
+The copyright and warranty provisions follow the Gnu general public
+license, available for view in gdb and elsewhere.  Full sources available.
+--bugs, suggestions, questions to eoneil@cs.umb.edu
+
+Exception 3 at EIP=00057a9b: Breakpoint
+Tutor> ~downloading tiny.lnx
+
+gd.bDone.
+
+Download done, setting EIP to 100100.
+Tutor> gdb
+Setting gdb dev to COM1, starting gdb (CTRL-C to abort).
+Unexpected (premature?) input char () dropped
+<Esc>
+Unexpected (premature?) input char (B) dropped
+Unexpected (premature?) input char (g) dropped
+Unexpected (premature?) input char (d) dropped
+Unexpected (premature?) input char (b) dropped
+Unexpected (premature?) input char ( ) dropped
+~q 
+Quit handler: 
+killing process 1812 Leaving board #1
+tuser@tutor-vserver:~$ mtip -f tiny.lnx
+For command help, type ~?
+For help on args, rerun without args
+Code starts at 0x100100
+Using board # 1 
+Please type <CR> to confirm console setting: ~downloading tiny.lnx
+
+.Done.
+
+Download done, setting EIP to 100100.
+Tutor> <CNTL-J>gd          gdb
+Setting gdb dev to COM1, starting gdb (CTRL-C to abort).
+
+Tutor> <Esc>
+A gdb
+Setting gdb dev to COM1, starting gdb (CTRL-C to abort).
+
+Tutor> ~q 
+Quit handler: 
+killing process 1814 Leaving board #1
+tuser@tutor-vserver:~$ 
+tuser@tutor-vserver:~$ exit
+exit
+
+Script done on Sat 22 Oct 2022 10:07:55 PM EDT

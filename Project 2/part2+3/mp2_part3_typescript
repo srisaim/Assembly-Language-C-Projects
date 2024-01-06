@@ -1,0 +1,293 @@
+Script started on Sat 05 Nov 2022 01:39:41 PM EDT
+tuser@tutor-vserver:~$ exitScript Donessh srisaim@users.cs.umb.edu[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow capturing the execution of following commands, pwd, lss -lg, cat for printbin on cs server[Aclear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmtip -f printbin.lnxscp srisaim@users.cs.umb.edu:cs341/mp2/part2+3/printbin.*  .[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14PNow showing run of printbin on the tutor VM
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Psrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kclear[1Pexitsrisaimanjunadh valluru srisaim
+bash: srisaimanjunadh: command not found
+tuser@tutor-vserver:~$ srisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[KScript Donessh srisaim@users.cs.umb.edu[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow capturing the execution of following commands, pwd, lss -lg, cat for printbin on cs server[Aclear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmtip -f printbin.lnxscp srisaim@users.cs.umb.edu:cs341/mp2/part2+3/printbin.*  .[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14PNow showing run of printbin on the tutor VM
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Psrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow showing run of printbin on the tutor VM[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1@s[1@t[1@r[1@n[1@c[1@p[1@y
+bash: Now: command not found
+tuser@tutor-vserver:~$ Now showing run of strncpy on the tutor VM[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Psrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[KScript Donessh srisaim@users.cs.umb.edu[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow capturing the execution of following commands, pwd, lss -lg, cat for printbin on cs server[Aclear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmtip -f printbin.lnxscp srisaim@users.cs.umb.edu:cs341/mp2/part2+3/printbin.*  .[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14PNow showing run of printbin on the tutor VM
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscp srisaim@users.cs.umb.edu:cs341/mp2/part2+3/printbin.*  .[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.* .[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.* . [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1@s[1@t[1@r[1@n[1@cp.* . [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cy.* ..[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+srisaim@users.cs.umb.edu's password: 
+strncpy.lnx                                     0%    0     0.0KB/s   --:-- ETAstrncpy.lnx                                   100%   31KB  30.9KB/s   00:00    
+strncpy.o                                       0%    0     0.0KB/s   --:-- ETAstrncpy.o                                     100%  564     0.6KB/s   00:00    
+strncpy.s                                       0%    0     0.0KB/s   --:-- ETAstrncpy.s                                     100%  479     0.5KB/s   00:00    
+strncpy.syms                                    0%    0     0.0KB/s   --:-- ETAstrncpy.syms                                  100% 1059     1.0KB/s   00:00    
+tuser@tutor-vserver:~$ scp srisaim@users.cs.umb.edu:cs341/mp2/part2+3/strncpy.* ..[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15PNow showing run of strncpy on the tutor VM
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Psrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[KScript Donessh srisaim@users.cs.umb.edu[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow capturing the execution of following commands, pwd, lss -lg, cat for printbin on cs server[Aclear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmtip -f printbin.lnx[1P.lnx[1P.lnx[1P.lnx[1P.lnx[1P.lnx[1P.lnx[1P.lnx[1P.lnxs.lnxt.lnxr.lnxn.lnxc.lnxp.lnxy.lnx
+For command help, type ~?
+For help on args, rerun without args
+Code starts at 0x100100
+Using board # 1 
+Please type <CR> to confirm console setting: 
+Setting console dev to COM2Console: colour EGA+ 80x25
+COM1 at 0x03f8 (irq = 4) is a 16550A
+COM2 at 0x02f8 (irq = 3) is a 16550A
+
+                 Welcome to UMB Tutor for the PC
+   UMB Tutor is a 32-bit protected-mode PC debugger/downloader,
+       based on Linux, UMB Tutor for m68k, and remote gdb.
+UMB Tutor is free software and you are welcome to distribute copies
+of it under certain conditions.  There is no warranty for this program.
+The copyright and warranty provisions follow the Gnu general public
+license, available for view in gdb and elsewhere.  Full sources available.
+--bugs, suggestions, questions to eoneil@cs.umb.edu
+
+Exception 3 at EIP=00057a9b: Breakpoint
+Tutor> ~downloading strncpy.lnx
+
+........Done.
+
+Download done, setting EIP to 100100.
+Tutor> ~
+go 100100
+Enter a string of characters:
+abcdefghijk
+Enter the number of characters to copy:
+5
+The strncpy function returned the correct pointer value.
+The strncpy function copied the data correctly.
+The content of the first 5 characters of array s is: abcde
+Exception 3 at EIP=00100110: Breakpoint
+Tutor> go 100100
+Enter a string of characters:
+I Love Tp Eat Pancakes
+Enter the number of characters to copy:
+7
+The strncpy function returned the correct pointer value.
+The strncpy function copied the data correctly.
+The content of the first 7 characters of array s is: I Love 
+Exception 3 at EIP=00100110: Breakpoint
+Tutor> go 100100
+Enter a string of characters:
+
+Enter the number of characters to copy:
+4
+The strncpy function returned the correct pointer value.
+The strncpy function copied the data correctly.
+The content of the first 4 characters of array s is: I Love 
+Exception 3 at EIP=00100110: Breakpoint
+Tutor> null string copied won't output null
+No such command: null string copied won't output null, use h command for help
+Tutor> go 100100
+Enter a string of characters:
+I Love Tp Bake Some Cake
+Enter the number of characters to copy:
+12
+The strncpy function returned the correct pointer value.
+The strncpy function copied the data correctly.
+The content of the first 12 characters of array s is: I Love Tp Ba?
+Exception 14 at EIP=00000007: Page fault
+Tutor> fo
+No such command: fo, use h command for help
+Tutor> go 100100
+Enter a string of characters:
+testing testing 1 2 3
+Enter the number of characters to copy:
+15
+The strncpy function returned the correct pointer value.
+The strncpy function copied the data correctly.
+The content of the first 15 characters of array s is: testing testing
+Please type <CR> to confirm console setting: 
+Setting console dev to COM2Console: colour EGA+ 80x25
+COM1 at 0x03f8 (irq = 4) is a 16550A
+COM2 at 0x02f8 (irq = 3) is a 16550A
+
+                 Welcome to UMB Tutor for the PC
+   UMB Tutor is a 32-bit protected-mode PC debugger/downloader,
+       based on Linux, UMB Tutor for m68k, and remote gdb.
+UMB Tutor is free software and you are welcome to distribute copies
+of it under certain conditions.  There is no warranty for this program.
+The copyright and warranty provisions follow the Gnu general public
+license, available for view in gdb and elsewhere.  Full sources available.
+--bugs, suggestions, questions to eoneil@cs.umb.edu
+
+Exception 3 at EIP=00057a9b: Breakpoint
+Tutor> If you choose a string longer than the destination array, which is 10, it should be      not be able to print more than 10 characters as that is the limit. While the user can input up to 100 characters  .
+No such command: If you choose a string longer than the destination array, which is 10, it should not be able to print more than 10 characters as that is the limit. While the user can input up to 100 characters., use h command for help
+Tutor> ~q 
+Quit handler: 
+killing process 1840 Leaving board #1
+tuser@tutor-vserver:~$ clear
+[H[Jtuser@tutor-vserver:~$ clearmtip -f strncpy.lnxscp srisaim@users.cs.umb.edu:cs341/mp2/part2+3/strncpy.* ..[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15PNow showing run of strncpy on the tutor VM
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Psrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[KScript Donessh srisaim@users.cs.umb.edu[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow capturing the execution of following commands, pwd, lss -lg, cat for printbin on cs server[Aclear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow capturing the execution of following commands, pwd, lss -lg, cat for printbin on cs server
+bash: Now: command not found
+tuser@tutor-vserver:~$ Now capturing the execution of following commands, pwd, lss -lg, cat for printbin on cs server[Aclear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmtip -f strncpy.lnxscp srisaim@users.cs.umb.edu:cs341/mp2/part2+3/strncpy.* ..[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15PNow showing run of strncpy on the tutor VM
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Psrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow showing run of strncpy on the tutor VM[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Psrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Ksrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow showing run of strncpy on the tutor VM[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Psrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[KScript Donessh srisaim@users.cs.umb.edu[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow capturing the execution of following commands, pwd, lss -lg, cat for printbin on cs server[Aclear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow capturing the execution of following commands, pwd, lss -lg, cat for printbin on cs server[A[29Pssh srisaim@users.cs.umb.edu
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+srisaim@users.cs.umb.edu's password: 
+Welcome to Ubuntu 20.04.5 LTS (GNU/Linux 5.4.0-125-generic x86_64)
+
+  System information as of Sat 05 Nov 2022 01:45:05 PM EDT
+
+  System load:  0.26                Processes:             703
+  Usage of /:   16.3% of 195.80GB   Users logged in:       25
+  Memory usage: 6%                  IPv4 address for eno1: 158.121.104.215
+  Swap usage:   0%                  IPv4 address for eno2: 158.121.105.215
+  Temperature:  45.0 C
+
+Contact: operator@cs.umb.edu or 617-287-6480
+Last login: Sat Nov  5 13:35:56 2022 from 73.16.36.73
+srisaim@pe15:~$ cd cs341/mp2/part2+3
+srisaim@pe15:~/cs341/mp2/part2+3$ ls
+makefile     printbin.lnx  printbin.syms  strncpy.lnx  strncpy.syms
+printbinc.c  printbin.o    strncpyc.c	  strncpy.o    syms
+printbinc.o  printbin.s    strncpyc.o	  strncpy.s
+srisaim@pe15:~/cs341/mp2/part2+3$ pwd
+/home/srisaim/cs341/mp2/part2+3
+srisaim@pe15:~/cs341/mp2/part2+3$ ls -lg
+total 116
+-rw-r--r-- 1 cs341-1G  2082 Nov  4 13:22 makefile
+-rw-r--r-- 1 cs341-1G   432 Nov  4 13:22 printbinc.c
+-rw-r--r-- 1 cs341-1G  6416 Nov  4 13:28 printbinc.o
+-rwxr-xr-x 1 cs341-1G 30628 Nov  5 13:10 printbin.lnx
+-rw-r--r-- 1 cs341-1G   768 Nov  5 13:10 printbin.o
+-rw-r--r-- 1 cs341-1G  2191 Nov  5 13:11 printbin.s
+-rw-r--r-- 1 cs341-1G  1056 Nov  5 13:10 printbin.syms
+-rw-r--r-- 1 cs341-1G   926 Nov  5 12:28 strncpyc.c
+-rw-r--r-- 1 cs341-1G  7068 Nov  5 12:45 strncpyc.o
+-rwxr-xr-x 1 cs341-1G 31604 Nov  5 13:10 strncpy.lnx
+-rw-r--r-- 1 cs341-1G   564 Nov  5 13:10 strncpy.o
+-rw-r--r-- 1 cs341-1G   479 Nov  5 13:11 strncpy.s
+-rw-r--r-- 1 cs341-1G  1059 Nov  5 13:10 strncpy.syms
+lrwxrwxrwx 1 cs341-1G    13 Nov  5 13:10 syms -> printbin.syms
+srisaim@pe15:~/cs341/mp2/part2+3$ cat strncpyc.c
+/* strncpyc.c: driver for testing assembly language mystrncpy function 
+	Bob Wilson
+	4/28/2016
+     Modified by Ron Cheung 3/4/2019
+   */
+
+#include <stdio.h>
+extern char *mystrncpy(char *s, char *ct, int n);
+
+int main()
+{
+   char s[10], ct[100];
+   int n;
+
+  printf("Enter a string of characters:\n");
+  /* read all inputs until the \n character */
+  scanf("%[^\n]s", ct);
+  printf("Enter the number of characters to copy:\n");
+  scanf("%d", &n);
+
+  if(s == mystrncpy(s, ct,n))
+      printf("The strncpy function returned the correct pointer value.\n");
+  else
+      printf("The strncpy function returned the wrong pointer value.\n");
+  if (!strncmp(s,ct, n))
+      printf("The strncpy function copied the data correctly.\n");
+  else
+      printf("The strncpy function copied the data incorrectly.\n");
+  printf("The content of the first %d characters of array s is: %s\n",n, s);
+  return 0;	
+}
+srisaim@pe15:~/cs341/mp2/part2+3$ strncpy.s
+strncpy.s: command not found
+srisaim@pe15:~/cs341/mp2/part2+3$ cat strncpy.s
+# Program to copy n characters of a string (strncpy.s)
+        .text
+        .global mystrncpy
+
+# Creating main stack frame mystrncpy
+mystrncpy:
+	pushl	%ebp
+	movl	%esp, %ebp
+	pushl	%ebx
+	pushl	%esi
+.loop2:
+	movl	16(%ebp), %ebx
+	decl	16(%ebp)
+	cmpl	$0, %ebx
+	je	.loop3
+	movl	8(%ebp), %esi
+	movl	12(%ebp), %ebx
+	movb	(%ebx), %dl
+	movb	%dl, (%esi)
+	incl	12(%ebp)
+	incl	8(%ebp)
+	cmpb	$0, %bl
+	je	.loop3
+	jmp	.loop2
+.loop3:
+	leal	-8(%ebp), %esp
+	popl	%esi
+	popl	%ebx
+	leave
+	ret
+.end
+srisaim@pe15:~/cs341/mp2/part2+3$ ls
+makefile     printbin.lnx  printbin.syms  strncpy.lnx  strncpy.syms
+printbinc.c  printbin.o    strncpyc.c	  strncpy.o    syms
+printbinc.o  printbin.s    strncpyc.o	  strncpy.s
+srisaim@pe15:~/cs341/mp2/part2+3$ cat strncpy.sysm[K[Kms
+00100100 T _start
+00100110 T _startupc
+0010013c T __x86.get_pc_thunk.bx
+00100140 T main
+0010025f T mystrncpy
+00100264 t .loop2
+00100286 t .loop3
+0010028d T breakpoint
+0010028f T clr_bss
+001002a1 T printf
+001002e0 T __x86.get_pc_thunk.ax
+001002e4 T strncmp
+00100350 T scanf
+00100399 t getch
+001003f6 t ungetch
+0010041d T init_devio
+0010043e T init
+001004b7 T rawputc
+0010054f t delay
+0010057c T putc
+001006ac T rawgetc
+00100739 T getc
+001007ac T readyc
+00100839 T devcontrol
+001008cc T devdescript
+0010095c T devname
+001009df T __x86.get_pc_thunk.cx
+001009e3 T _doscan
+00100c60 t _innum
+00100ece t _instr
+00101021 t _getccl
+001010db T __x86.get_pc_thunk.si
+001010df T _fdoprnt
+0010129c t .L27
+001012be t .L24
+001012e4 t .L26
+00101315 t .L23
+0010136d t .L25
+00101398 t .L29
+001013c0 t .L21
+001013e8 t .L28
+00101410 t .L20
+00101578 t _prtl10
+00101624 t _prtl8
+001016b7 t _prtl16
+00101748 t _prtX16
+001017d9 t _prtl2
+00101ef4 d _GLOBAL_OFFSET_TABLE_
+00101f00 D _sctab
+00101f80 D _ctype_
+00102001 B __bss_start
+00102001 D _edata
+00102004 B sysapi2
+00102008 B _end
+srisaim@pe15:~/cs341/mp2/part2+3$ exit
+logout
+Connection to users.cs.umb.edu closed.
+tuser@tutor-vserver:~$ exit
+exit
+
+Script done on Sat 05 Nov 2022 01:47:34 PM EDT

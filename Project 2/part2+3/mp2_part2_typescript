@@ -1,0 +1,322 @@
+Script started on Sat 05 Nov 2022 01:34:52 PM EDT
+tuser@tutor-vserver:~$ exitclearat printbin.symsexit[Kscript[4Plsexitcat printbin.o[8Pscript[1Pclear[3Plsclearrm typescriptls[Kclear[1Pexitssh srisaim@users.cs.umb.edu[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow capturing the execution of following commands, pwd, lss -lg, cat for printbin on cs server[Aclear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmtip -f printbin.lnxscp srisaim@users.cs.umb.edu:cs341/mp2/part2+3/printbin.*  .[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14PNow showing run of printbin on the tutor VM
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Psrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Ksrisaimanjunadh valluru srisaim
+bash: srisaimanjunadh: command not found
+tuser@tutor-vserver:~$ srisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kclearat printbin.symsexit[Kscript[4Plsexitcat printbin.o[8Pscript[1Pclear[3Plsclearrm typescriptls[Kclear[1Pexitssh srisaim@users.cs.umb.edu[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow capturing the execution of following commands, pwd, lss -lg, cat for printbin on cs server[Aclear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmtip -f printbin.lnxscp srisaim@users.cs.umb.edu:cs341/mp2/part2+3/printbin.*  .[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14PNow showing run of printbin on the tutor VM
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Psrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow showing run of printbin on the tutor VM
+bash: Now: command not found
+tuser@tutor-vserver:~$ Now showing run of printbin on the tutor VM[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Psrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kclearat printbin.symsexit[Kscript[4Plsexitcat printbin.o[8Pscript[1Pclear[3Plsclearrm typescriptls[Kclear[1Pexitssh srisaim@users.cs.umb.edu[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow capturing the execution of following commands, pwd, lss -lg, cat for printbin on cs server[Aclear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmtip -f printbin.lnxscp srisaim@users.cs.umb.edu:cs341/mp2/part2+3/printbin.*  .
+srisaim@users.cs.umb.edu's password: 
+printbin.lnx                                    0%    0     0.0KB/s   --:-- ETAprintbin.lnx                                  100%   30KB  29.9KB/s   00:00    
+printbin.o                                      0%    0     0.0KB/s   --:-- ETAprintbin.o                                    100%  768     0.8KB/s   00:00    
+printbin.s                                      0%    0     0.0KB/s   --:-- ETAprintbin.s                                    100% 2191     2.1KB/s   00:00    
+printbin.syms                                   0%    0     0.0KB/s   --:-- ETAprintbin.syms                                 100% 1056     1.0KB/s   00:00    
+tuser@tutor-vserver:~$ scp srisaim@users.cs.umb.edu:cs341/mp2/part2+3/printbin.*  .[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14PNow showing run of printbin on the tutor VM
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Psrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kclearat printbin.symsexit[Kscript[4Plsexitcat printbin.o[8Pscript[1Pclear[3Plsclearrm typescriptls[Kclear[1Pexitssh srisaim@users.cs.umb.edu[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow capturing the execution of following commands, pwd, lss -lg, cat for printbin on cs server[Aclear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmtip -f printbin.lnxscp srisaim@users.cs.umb.edu:cs341/mp2/part2+3/printbin.*  .[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[37Pmtip -f printbin.lnx
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+For command help, type ~?
+For help on args, rerun without args
+Code starts at 0x100100
+Using board # 1 
+Please type <CR> to confirm console setting: 
+Setting console dev to COM2Console: colour EGA+ 80x25
+COM1 at 0x03f8 (irq = 4) is a 16550A
+COM2 at 0x02f8 (irq = 3) is a 16550A
+
+                 Welcome to UMB Tutor for the PC
+   UMB Tutor is a 32-bit protected-mode PC debugger/downloader,
+       based on Linux, UMB Tutor for m68k, and remote gdb.
+UMB Tutor is free software and you are welcome to distribute copies
+of it under certain conditions.  There is no warranty for this program.
+The copyright and warranty provisions follow the Gnu general public
+license, available for view in gdb and elsewhere.  Full sources available.
+--bugs, suggestions, questions to eoneil@cs.umb.edu
+
+Exception 3 at EIP=00057a9b: Breakpoint
+Tutor> ~downloading printbin.lnx
+
+........Done.
+
+Download done, setting EIP to 100100.
+Tutor> go 100100
+enter the character's ascii value in hex: 
+50
+The binary format for character P is 0101 0000
+Exception 3 at EIP=00100110: Breakpoint
+Tutor> go 100100
+enter the character's ascii value in hex: 
+19
+The binary format for character  is 0001 1001
+Exception 3 at EIP=00100110: Breakpoint
+Tutor> go 100100
+enter the character's ascii value in hex: 
+ab
+The binary format for character « is 1010 1011
+Exception 3 at EIP=00100110: Breakpoint
+Tutor> ~q 
+Quit handler: 
+killing process 1808 Leaving board #1
+tuser@tutor-vserver:~$ clear
+[H[Jtuser@tutor-vserver:~$ clearmtip -f printbin.lnxscp srisaim@users.cs.umb.edu:cs341/mp2/part2+3/printbin.*  .[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14PNow showing run of printbin on the tutor VM
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Psrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow showing run of printbin on the tutor VM[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Psrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kclearat printbin.symsexit[Kscript[4Plsexitcat printbin.o[8Pscript[1Pclear[3Plsclearrm typescriptls[Kclear[1Pexitssh srisaim@users.cs.umb.edu[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow capturing the execution of following commands, pwd, lss -lg, cat for printbin on cs server
+bash: Now: command not found
+tuser@tutor-vserver:~$ Now capturing the execution of following commands, pwd, lss -lg, cat for printbin on cs server[Aclear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmtip -f printbin.lnxscp srisaim@users.cs.umb.edu:cs341/mp2/part2+3/printbin.*  .[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14PNow showing run of printbin on the tutor VM
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Psrisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kclearat printbin.symsexit[Kscript[4Plsexitcat printbin.o[8Pscript[1Pclear[3Plsclearrm typescriptls[Kclear[1Pexitssh srisaim@users.cs.umb.edu[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNow capturing the execution of following commands, pwd, lss -lg, cat for printbin on cs server[A[29Pssh srisaim@users.cs.umb.edu
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+srisaim@users.cs.umb.edu's password: 
+Welcome to Ubuntu 20.04.5 LTS (GNU/Linux 5.4.0-125-generic x86_64)
+
+  System information as of Sat 05 Nov 2022 01:35:55 PM EDT
+
+  System load:  0.05                Processes:             717
+  Usage of /:   16.3% of 195.80GB   Users logged in:       27
+  Memory usage: 6%                  IPv4 address for eno1: 158.121.104.215
+  Swap usage:   0%                  IPv4 address for eno2: 158.121.105.215
+  Temperature:  45.0 C
+
+Contact: operator@cs.umb.edu or 617-287-6480
+Last login: Sat Nov  5 13:29:52 2022 from 73.16.36.73
+srisaim@pe15:~$ cd cs341/mp2/part2+3
+srisaim@pe15:~/cs341/mp2/part2+3$ ls
+makefile     printbin.lnx  printbin.syms  strncpy.lnx  strncpy.syms
+printbinc.c  printbin.o    strncpyc.c	  strncpy.o    syms
+printbinc.o  printbin.s    strncpyc.o	  strncpy.s
+srisaim@pe15:~/cs341/mp2/part2+3$ pwd
+/home/srisaim/cs341/mp2/part2+3
+srisaim@pe15:~/cs341/mp2/part2+3$ ls -lg
+total 116
+-rw-r--r-- 1 cs341-1G  2082 Nov  4 13:22 makefile
+-rw-r--r-- 1 cs341-1G   432 Nov  4 13:22 printbinc.c
+-rw-r--r-- 1 cs341-1G  6416 Nov  4 13:28 printbinc.o
+-rwxr-xr-x 1 cs341-1G 30628 Nov  5 13:10 printbin.lnx
+-rw-r--r-- 1 cs341-1G   768 Nov  5 13:10 printbin.o
+-rw-r--r-- 1 cs341-1G  2191 Nov  5 13:11 printbin.s
+-rw-r--r-- 1 cs341-1G  1056 Nov  5 13:10 printbin.syms
+-rw-r--r-- 1 cs341-1G   926 Nov  5 12:28 strncpyc.c
+-rw-r--r-- 1 cs341-1G  7068 Nov  5 12:45 strncpyc.o
+-rwxr-xr-x 1 cs341-1G 31604 Nov  5 13:10 strncpy.lnx
+-rw-r--r-- 1 cs341-1G   564 Nov  5 13:10 strncpy.o
+-rw-r--r-- 1 cs341-1G   479 Nov  5 13:11 strncpy.s
+-rw-r--r-- 1 cs341-1G  1059 Nov  5 13:10 strncpy.syms
+lrwxrwxrwx 1 cs341-1G    13 Nov  5 13:10 syms -> printbin.syms
+srisaim@pe15:~/cs341/mp2/part2+3$ cat makefile
+# makefile: makefile for assembly-language examples
+# 
+# Assumes a matched pair of sources, e.g., myprog.s and myprogc.c,
+# an assembler source for a function and its C driver.
+
+# Usage: For an assembler source, say myprog.s, with a corresponding 
+#  C driver myprogc.c, set A to the basename in the make command line: 
+#
+#  "make A=myprog myprog.lnx" or just "make A=myprog"
+#
+#  (since $(A).lnx is the first make target)
+#  Then myprog.lnx is ready for downloading via "mtip -f myprog.lnx"
+#  (followed by ~r and ~d inside the mtip program)
+
+# also "make clean" to clean up non-source files in a directory
+# All UNIX tools from ulab had been moved to LINUX by
+#
+#     Ron Cheung (2/28/2020)
+#
+# Here the assembler program has the primary source name,
+# the C program is just a driver of almost the same basename:
+C = $(A)c
+
+# system directories needed for compilers, libraries, header files--
+SAPC_TOOLS = /home/cheungr/serl/tutor-linux
+PC_LIB = $(SAPC_TOOLS)/libc
+PC_INC = $(SAPC_TOOLS)/include
+
+
+CC    = gcc
+CFLAGS  = -gdwarf-2 -gstrict-dwarf -march=i586 -m32 -fno-builtin -fno-stack-protector -nostdlib     -c -Wall -I$(PC_INC)
+AS    = as --32
+NM    = nm
+LD    = ld -m elf_i386
+
+
+# File suffixes:
+# .c	C source (often useful both for UNIX host and SAPC)
+# .s 	assembly language source
+# .o  relocatable machine code, initialized data, etc., for SA PC
+# .lnx  executable image (bits as in memory), for SA PC (Linux a.out format)
+# .syms text file of .lnx's symbols and their values (the "symbol table")
+# Symbol file "syms"--for most recently built executable in directory
+
+# PC executable--tell ld to start code at 0x100100, load special startup
+# module, special PC C libraries--
+
+$(A).lnx: $(A).o $(C).o 
+	$(LD) -N -Ttext 100100 -o $(A).lnx \
+		$(PC_LIB)/startup0.o $(PC_LIB)/startup.o \
+		$(C).o $(A).o $(PC_LIB)/libc.a
+	rm -f syms;$(NM) -n $(A).lnx>$(A).syms;ln -s $(A).syms syms
+
+$(A).o: $(A).s
+	$(AS) -o $(A).o $(A).s
+
+# tell gcc to use $(PC_INC) for #include <...> headers--
+$(C).o: $(C).c
+	$(CC) $(CFLAGS) -c -o $(C).o $(C).c
+	
+clean:
+	rm -f *.o *.syms *.lnx core syms
+srisaim@pe15:~/cs341/mp2/part2+3$ cat printbinc.c
+/* printbinc.c: driver for printbin.s 
+   bob wilson 01/20/2012 
+   modified by Ron Cheung 3/8/2015   */
+
+#include <stdio.h>
+extern char *printbin(unsigned char);
+
+int main(void)
+{
+  unsigned int x;
+
+  printf("enter the character's ascii value in hex: \n");
+  scanf("%x",&x);
+  printf("The binary format for character %c is %s\n", 
+                                 x,   printbin((unsigned char)x));
+  return 0;
+}
+
+srisaim@pe15:~/cs341/mp2/part2+3$ cat printbin.s
+# Program to print binary characters (printbin.s) 
+# Comments just to remember and keep track of code
+        .text
+        .global printbin
+        asc:
+                .ascii "0011 1101\0"
+
+# Creating main stack frame for printbin
+printbin:
+        pushl 	%ebp			# Starting point push ebp
+        movl	%esp, %ebp         	# And moving esp to ebp
+        subl	$8, %esp
+        movl	8(%ebp), %eax	     	# User input is moved to eax
+        movl	%eax, -4(%ebp)    	# Stores input in variable
+        movl	$0, -8(%ebp)
+        movl	%eax, -8(%ebp)    	# Input in variable
+        sarl	$4, -8(%ebp)       	# Shifting 4 spaces to right
+        movl	$asc, %edx         	# Saves asc
+
+        call	donibble           	# Call donibble
+        addl	$1, %edx
+        movl	-4(%ebp), %eax     	# Move input to eax
+        movl	%eax, -8(%ebp)     	# Move input to ebp
+
+        call	donibble           	# Call donibble
+        movl	$asc, %eax         	# Move asc to eax
+        movl	%ebp, %esp
+        popl	%ebp               	# Pop ebp
+        ret                    		# Return 
+
+        movl	$asc, %eax         	# Moving asc
+        movl	%ebp, %esp
+        popl	%ebp               	# Pop ebp
+        ret                     	# Return
+
+# Creating a new stack for donibble
+donibble:
+        pushl	%ebp			# Starting point push ebp
+        movl	%esp, %ebp		# And moving esp to ebp
+        subl	$16, %esp
+        movl	8(%ebp), %eax		# User input is moved to eax
+        movb	%al, -4(%ebp)
+        movl	$4, -12(%ebp)
+        movl	$3, -16(%ebp)
+        jmp	string			# Jump String
+
+.data
+
+# Creating another stack for return string storage.
+string:
+        movl	8(%ebp),%eax		# Move input to eax
+        movl	%eax, -8(%ebp)		# Move input to ebp
+        movl	-16(%ebp), %ecx
+        sarl	%cl, -8(%ebp)
+        andl	$1, -8(%ebp)		# Get last bit
+        movzbl	-8(%ebp), %eax		# Bit is stored in eax
+        addb	$0x30, %al
+        movb	%al, (%edx)
+        addl	$1, %edx
+        subl	$1, -16(%ebp)
+        subl	$1, -12(%ebp)
+        cmpb	$0, -12(%ebp)		# Testing to check null
+        jne	string			# Jump if not equal
+        movl	%ebp, %esp
+        popl	%ebp			# Pop ebp
+        ret              		# Return
+
+.end
+
+srisaim@pe15:~/cs341/mp2/part2+3$ cat printbin.syms
+00100100 T _start
+00100110 T _startupc
+0010013c T __x86.get_pc_thunk.bx
+00100140 T main
+001001c3 t asc
+001001cd T printbin
+00100211 t donibble
+00100230 T breakpoint
+00100232 T clr_bss
+00100244 T printf
+00100283 T __x86.get_pc_thunk.ax
+00100287 T scanf
+001002d0 t getch
+0010032d t ungetch
+00100354 T init_devio
+00100375 T init
+001003ee T rawputc
+00100486 t delay
+001004b3 T putc
+001005e3 T rawgetc
+00100670 T getc
+001006e3 T readyc
+00100770 T devcontrol
+00100803 T devdescript
+00100893 T devname
+00100916 T __x86.get_pc_thunk.cx
+0010091a T _doscan
+00100b97 t _innum
+00100e05 t _instr
+00100f58 t _getccl
+00101012 T __x86.get_pc_thunk.si
+00101016 T _fdoprnt
+001011d3 t .L27
+001011f5 t .L24
+0010121b t .L26
+0010124c t .L23
+001012a4 t .L25
+001012cf t .L29
+001012f7 t .L21
+0010131f t .L28
+00101347 t .L20
+001014af t _prtl10
+0010155b t _prtl8
+001015ee t _prtl16
+0010167f t _prtX16
+00101710 t _prtl2
+00101cf8 d _GLOBAL_OFFSET_TABLE_
+00101d20 d string
+00101d60 D _sctab
+00101de0 D _ctype_
+00101e61 B __bss_start
+00101e61 D _edata
+00101e64 B sysapi2
+00101e68 B _end
+srisaim@pe15:~/cs341/mp2/part2+3$ exit
+logout
+Connection to users.cs.umb.edu closed.
+tuser@tutor-vserver:~$ Script Done
+bash: Script: command not found
+tuser@tutor-vserver:~$ exit
+exit
+
+Script done on Sat 05 Nov 2022 01:38:04 PM EDT

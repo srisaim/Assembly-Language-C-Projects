@@ -1,0 +1,22 @@
+CS341 Machine Project 2
+Grading Rubric
+
+Student Name: srisaim
+															                    						   	Points out of Total
+
+0.	Correct and complete implementation of mp2warmup                10/10
+
+
+1.	Correct and complete implementation of count								  	10/10
+	
+
+2. Correct and complete implementation of printbin			           	10/10
+		
+
+3. Correct and complete implementation of strncpy           				9/10
+	Including explanation of what happens if string too long = 10
+	Without explanation of what happens if string too long = 8
+
+Total Score							                                        		39/40
+
+Grader Comments:

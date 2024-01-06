@@ -1,0 +1,71 @@
+Script started on Fri 21 Oct 2022 06:02:14 PM EDT
+tuser@tutor-vserver:~$ srisaimanjunadhvalluru[C[C[C[C_manjunadhvalluru[C[C[C[C[C[C[C[C[C[C[C[C[C[C_valluru[C[C[C[C[C[C[C_srisaim[1Pmanjunadh_valluru_srisaim[C[C[C[C[C[C[C[C[C[C[1Pvalluru_srisaim valluru_srisaim[C[C[C[C[C[C[C[C[C[C[1Psrisaim srisaim[C[C[C[C[C[C[C
+bash: srisaimanjunadh: command not found
+tuser@tutor-vserver:~$ srisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K[2Plsclearmtip -f count.lnxscp srisaim@users.cs.umb.edu:cs341/mp2/part1/count.* .
+srisaim@users.cs.umb.edu's password: 
+count.lnx                                       0%    0     0.0KB/s   --:-- ETAcount.lnx                                     100%   30KB  29.8KB/s   00:00    
+count.o                                         0%    0     0.0KB/s   --:-- ETAcount.o                                       100%  524     0.5KB/s   00:00    
+count.s                                         0%    0     0.0KB/s   --:-- ETAcount.s                                       100%  634     0.6KB/s   00:00    
+count.syms                                      0%    0     0.0KB/s   --:-- ETAcount.syms                                    100% 1000     1.0KB/s   00:00    
+tuser@tutor-vserver:~$ scp srisaim@users.cs.umb.edu:cs341/mp2/part1/count.* .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Prisaimanjunadh valluru srisaim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K[2Plsclearmtip -f count.lnx
+For command help, type ~?
+For help on args, rerun without args
+Code starts at 0x100100
+Using board # 1 
+Please type <CR> to confirm console setting: 
+Setting console dev to COM2Console: colour EGA+ 80x25
+COM1 at 0x03f8 (irq = 4) is a 16550A
+COM2 at 0x02f8 (irq = 3) is a 16550A
+
+                 Welcome to UMB Tutor for the PC
+   UMB Tutor is a 32-bit protected-mode PC debugger/downloader,
+       based on Linux, UMB Tutor for m68k, and remote gdb.
+UMB Tutor is free software and you are welcome to distribute copies
+of it under certain conditions.  There is no warranty for this program.
+The copyright and warranty provisions follow the Gnu general public
+license, available for view in gdb and elsewhere.  Full sources available.
+--bugs, suggestions, questions to eoneil@cs.umb.edu
+
+Exception 3 at EIP=00057a9b: Breakpoint
+Tutor> ~downloading count.lnx
+
+........Done.
+
+Download done, setting EIP to 100100.
+Tutor> go 100100
+Enter a string of characters:
+avacado
+Enter a character to count:
+a
+The number of a's in the string avacado is 3
+Exception 3 at EIP=00100110: Breakpoint
+Tutor> <Esc>
+A go 100100
+Enter a string of characters:
+iliketoeatpancakes
+Enter a character to count:
+i
+The number of i's in the string iliketoeatpancakes is 2
+Exception 3 at EIP=00100110: Breakpoint
+Tutor> go 100100
+Enter a string of characters:
+mississippi
+Enter a character to count:
+s
+The number of s's in the string mississippi is 4
+Exception 3 at EIP=00100110: Breakpoint
+Tutor> go 100100
+Enter a string of characters:
+ilovesoccer
+Enter a character to count:
+v
+The number of v's in the string ilovesoccer is 1
+Exception 3 at EIP=00100110: Breakpoint
+Tutor> ~q 
+Quit handler: 
+killing process 1823 Leaving board #1
+tuser@tutor-vserver:~$ ls[K[Kclear
+[H[Jtuser@tutor-vserver:~$ exit
+exit
+
+Script done on Fri 21 Oct 2022 06:06:39 PM EDT
