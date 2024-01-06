@@ -1,0 +1,30 @@
+Discussion.txt for MP1
+
+Question 1:
+Before I even started coding for the project, I made sure to read the MP1 instructions carefully. I then created a pseudo code for functions md, ms, and h to create a better approach for this project. I first started by coding the function mem-display and testing the function using md 10000 as input. The instructions for MP1 were a bit vague, but I was able to understand  little by little as I tested and ran my code. Using gdb also helped me along the way as the tool guided me to create the function help. If I called md for an address that does not correspond to phyical memory address, it would give my a segmentation fault core dump error. That error also occurred most of the time as I tried to figure the cause for it too.
+
+Question 2: Reading makefile and searching other files, it puts the symbol table (nm outputs) for my tutor code in syms file.
+Address for xyz = 001023e0
+Address for pxyz = 0010243c
+
+PC-tutor> md 001023e0
+1023e0 e0 23 10 00 20 ff 3f 00 00 00 00 00 0c 00 00 00 00 .#.. .?..........
+Reached mem_display, passed argument string: | 001023e0|
+        help message: Memory display: MD <addr>
+
+PC-tutor> md 0010243c
+10243c 3c 24 10 00 20 ff 3f 00 11 00 00 00 0c 00 00 00 00 <$.. .?..........
+Reached mem_display, passed argument string: | 0010243c|
+        help message: Memory display: MD <addr>
+
+Question 3:
+After reading the nm output, I was able to determine that the data and code reside in the usyms file.
+
+Question 4:
+I tampered with the code and tried to make the tutor crash. In the Unix environment, I get a segmentation fault error, as on the tutor, the crash results in irresponsive commands, and things stop working.
+
+Question 5:
+I tried to follow instructions for question 5 but wasn't able to, because I kept getting an error messages. I also tried "i reg" but was unsuccessful as the command wasn't being recognized.
+
+Question 6:
+Other interesting things I've tried were messing around with the tutor, tampering with files to see what happened, and using gdb. I learned a lot from this project as reading through files, learning memory allocation, and overall C programming to create a tutor. It was definitely worth the time I took because at first I was overwhelmed and confused. But now I am more experienced and know a lot more going into future projects. The hardest parts of the project were setting up the environment, understanding the overall environment and how makefile and tutor work, and just how to approach the project itself. Surprisingly, the easy part of the project was just coding after understanding the goal, other than rinsing and repeating the process of making the code work. The segmentation fault and core dump error gave me a lot of issues but I was able to figure it out and solve the problem. The assignment can be improved if clearer steps or hints were given to code for each function or just more understanding of how all the files work for tutor.
